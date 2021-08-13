@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Prahlad Timalsina",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack Developer && Tech Enthusiast,Learner",
+    "image": "prahlad-timalsina.jpg",
+    "bio": "My name is Prahlad, I'm a Full Stack  Developer. Currently I'm working at Brainwork Venture Group pvt ltd",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "prahladtimalsina7@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Kathmandu , Nepal",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://prahladtimalsina.com.np",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/OfficialPrahladTimalsina",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/prahladtimalsina/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/prahladtimalsina",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Tribhuvan University",
+        "degree": "Bachelor in  Computer Science & Information Technology",
+        "graduated": "January 2017",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Brainwork Ventrue Group Pvt ltd",
+        "title": "Team Member && Software Engineer",
+        "years": "March 37 - Present",
+        "description": ""
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+ 
+      {
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "react-project-amazon-clone.png",
+        "url": "https://clone-d9ae9.web.app/"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "Hulu Clone built with ReactJS",
+        "image": "react-project-hulu-clone.png",
+        "url": "https://hulu-clone-prahlad.web.app/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Covid-19 traacker built with ReactJS",
+        "image": "react-project-covid-19-clone.png",
+        "url": "https://covid19-tracker-7b6fc.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+      
+    ]
+  }
+}
